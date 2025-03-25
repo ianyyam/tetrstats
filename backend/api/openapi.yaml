@@ -1,0 +1,12 @@
+openapi: '3.0.3'
+
+info:
+  description: tetrstats backend
+  version: 0.2.0
+  title: tetrstats backend
+
+servers:
+  - url: http://localhost:3010/api/v0
+
+paths:
+  # not impl
